@@ -12,3 +12,4 @@ C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCode
 C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
 C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
 C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json

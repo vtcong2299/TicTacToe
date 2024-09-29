@@ -1,4 +1,5 @@
 using System;
+using System.Text;
 
 namespace TicTacToe
 {
@@ -6,11 +7,19 @@ namespace TicTacToe
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding=Encoding.UTF8;
             GameSystem gameSystem = new GameSystem();
             PlayControler playControler = new PlayControler();
-            gameSystem.MenuGame();
-            gameSystem.Display();
-            playControler.Player();
+            try
+            {
+                gameSystem.MenuGame();
+                gameSystem.Display();
+                playControler.Player();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Lỗi tại Main(): " + ex);
+            }
         }
     }
 }
